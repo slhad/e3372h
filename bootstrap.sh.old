@@ -1,0 +1,12 @@
+#!/bin/bash
+
+. /script_usb.sh
+
+
+while [ 1 = 1 ];do
+
+set_modem_mode
+
+sleep 300
+
+done
